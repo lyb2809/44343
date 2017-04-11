@@ -1,0 +1,12 @@
+BUG REPORT
+-------------------------------------
+
+Programmer: Thanh ly
+Project: Big exercises - L1
+-------------------------------------
+
+1. Bug's name: LCD Display not follow the requirement
+2. Steps find this bug: The messeage not follow the requirement when execute. 
+3. Expected behavior: The messeage must be follow the requirement.
+4. Cause: I forgot to check the requirement for LCD Display
+5. How to solve: Correct String show on LCD.
